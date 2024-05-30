@@ -1,0 +1,1031 @@
+{
+  "Github": {
+    "url": "https://github.com/{}"
+  },
+  "2Dimensions": {
+    "url": "https://2Dimensions.com/a/{}"
+  },
+  "3dnews": {
+    "url": "http://forum.3dnews.ru/member.php?username={}"
+  },
+  "7Cups": {
+    "url": "https://www.7cups.com/@{}"
+  },
+  "8tracks": {
+    "url": "https://8tracks.com/{}"
+  },
+  "9GAG": {
+    "url": "https://www.9gag.com/u/{}"
+  },
+  "APClips": {
+    "url": "https://apclips.com/{}"
+  },
+  "About.me": {
+    "url": "https://about.me/{}"
+  },
+  "Academia.edu": {
+    "url": "https://independent.academia.edu/{}"
+  },
+  "AdmireMe.Vip": {
+    "url": "https://admireme.vip/{}"
+  },
+  "Air Pilot Life": {
+    "url": "https://airlinepilot.life/u/{}"
+  },
+  "Airbit": {
+    "url": "https://airbit.com/{}"
+  },
+  "Airliners": {
+    "url": "https://www.airliners.net/user/{}/profile/photos"
+  },
+  "Alik.cz": {
+    "url": "https://www.alik.cz/u/{}"
+  },
+  "All Things Worn": {
+    "url": "https://www.allthingsworn.com/profile/{}"
+  },
+  "Amino": {
+    "url": "https://aminoapps.com/u/{}"
+  },
+  "AniWorld": {
+    "url": "https://aniworld.to/user/profil/{}"
+  },
+  "Apple Developer": {
+    "url": "https://developer.apple.com/forums/profile/{}"
+  },
+  "Apple Discussions": {
+    "url": "https://discussions.apple.com/profile/{}"
+  },
+  "Archive of Our Own": {
+    "url": "https://archiveofourown.org/users/{}"
+  },
+  "Archive.org": {
+    "url": "https://archive.org/details/@{}"
+  },
+  "ArtStation": {
+    "url": "https://www.artstation.com/{}"
+  },
+  "Asciinema": {
+    "url": "https://asciinema.org/~{}"
+  },
+  "Ask Fedora": {
+    "url": "https://ask.fedoraproject.org/u/{}"
+  },
+  "Audiojungle": {
+    "url": "https://audiojungle.net/user/{}"
+  },
+  "Autofrage": {
+    "url": "https://www.autofrage.net/nutzer/{}"
+  },
+  "Avizo": {
+    "url": "https://www.avizo.cz/{}/"
+  },
+  "BOOTH": {
+    "url": "https://{}.booth.pm/"
+  },
+  "Bandcamp": {
+    "url": "https://www.bandcamp.com/{}"
+  },
+  "Bazar.cz": {
+    "url": "https://www.bazar.cz/{}/"
+  },
+  "Behance": {
+    "url": "https://www.behance.net/{}"
+  },
+  "Bezuzyteczna": {
+    "url": "https://bezuzyteczna.pl/uzytkownicy/{}"
+  },
+  "BiggerPockets": {
+    "url": "https://www.biggerpockets.com/users/{}"
+  },
+  "Bikemap": {
+    "url": "https://www.bikemap.net/en/u/{}/routes/created/"
+  },
+  "BioHacking": {
+    "url": "https://forum.dangerousthings.com/u/{}"
+  },
+  "Blipfoto": {
+    "url": "https://www.blipfoto.com/{}"
+  },
+  "Blogger": {
+    "url": "https://{}.blogspot.com"
+  },
+  "BodyBuilding": {
+    "url": "https://bodyspace.bodybuilding.com/{}"
+  },
+  "BongaCams": {
+    "url": "https://pt.bongacams.com/profile/{}"
+  },
+  "Bookcrossing": {
+    "url": "https://www.bookcrossing.com/mybookshelf/{}/"
+  },
+  "BraveCommunity": {
+    "url": "https://community.brave.com/u/{}/"
+  },
+  "BugCrowd": {
+    "url": "https://bugcrowd.com/{}"
+  },
+  "BuzzFeed": {
+    "url": "https://buzzfeed.com/{}"
+  },
+  "CGTrader": {
+    "url": "https://www.cgtrader.com/{}"
+  },
+  "CNET": {
+    "url": "https://www.cnet.com/profiles/{}/"
+  },
+  "CSSBattle": {
+    "url": "https://cssbattle.dev/player/{}"
+  },
+  "CTAN": {
+    "url": "https://ctan.org/author/{}"
+  },
+  "Caddy Community": {
+    "url": "https://caddy.community/u/{}/summary"
+  },
+  "Car Talk Community": {
+    "url": "https://community.cartalk.com/u/{}/summary"
+  },
+  "Career.habr": {
+    "url": "https://career.habr.com/{}"
+  },
+  "Championat": {
+    "url": "https://www.championat.com/user/{}"
+  },
+  "Chaos": {
+    "url": "https://chaos.social/@{}"
+  },
+  "Chatujme.cz": {
+    "url": "https://profil.chatujme.cz/{}"
+  },
+  "ChaturBate": {
+    "url": "https://chaturbate.com/{}"
+  },
+  "Choice Community": {
+    "url": "https://choice.community/u/{}/summary"
+  },
+  "Clapper": {
+    "url": "https://clapperapp.com/{}"
+  },
+  "CloudflareCommunity": {
+    "url": "https://community.cloudflare.com/u/{}"
+  },
+  "Clozemaster": {
+    "url": "https://www.clozemaster.com/players/{}"
+  },
+  "Clubhouse": {
+    "url": "https://www.clubhouse.com/@{}"
+  },
+  "Code Snippet Wiki": {
+    "url": "https://codesnippets.fandom.com/wiki/User:{}"
+  },
+  "Codeberg": {
+    "url": "https://codeberg.org/{}"
+  },
+  "Codecademy": {
+    "url": "https://www.codecademy.com/profiles/{}"
+  },
+  "Codechef": {
+    "url": "https://www.codechef.com/users/{}"
+  },
+  "Codeforces": {
+    "url": "https://codeforces.com/profile/{}"
+  },
+  "Codepen": {
+    "url": "https://codepen.io/{}"
+  },
+  "Coderwall": {
+    "url": "https://coderwall.com/{}"
+  },
+  "Codewars": {
+    "url": "https://www.codewars.com/users/{}"
+  },
+  "Coinvote": {
+    "url": "https://coinvote.cc/profile/{}"
+  },
+  "ColourLovers": {
+    "url": "https://www.colourlovers.com/lover/{}"
+  },
+  "Contently": {
+    "url": "https://{}.contently.com/"
+  },
+  "Coroflot": {
+    "url": "https://www.coroflot.com/{}"
+  },
+  "Cracked": {
+    "url": "https://www.cracked.com/members/{}/"
+  },
+  "Crevado": {
+    "url": "https://{}.crevado.com"
+  },
+  "Cryptomator Forum": {
+    "url": "https://community.cryptomator.org/u/{}"
+  },
+  "Cults3D": {
+    "url": "https://cults3d.com/en/users/{}/creations"
+  },
+  "DEV Community": {
+    "url": "https://dev.to/{}"
+  },
+  "DMOJ": {
+    "url": "https://dmoj.ca/user/{}"
+  },
+  "DailyMotion": {
+    "url": "https://www.dailymotion.com/{}"
+  },
+  "DeviantART": {
+    "url": "https://{}.deviantart.com"
+  },
+  "Discogs": {
+    "url": "https://www.discogs.com/user/{}"
+  },
+  "Discuss.Elastic.co": {
+    "url": "https://discuss.elastic.co/u/{}"
+  },
+  "Disqus": {
+    "url": "https://disqus.com/{}"
+  },
+  "Docker Hub": {
+    "url": "https://hub.docker.com/u/{}/"
+  },
+  "Dribbble": {
+    "url": "https://dribbble.com/{}"
+  },
+  "Eintracht Frankfurt Forum": {
+    "url": "https://community.eintracht.de/fans/{}"
+  },
+  "Envato Forum": {
+    "url": "https://forums.envato.com/u/{}"
+  },
+  "Erome": {
+    "url": "https://www.erome.com/{}"
+  },
+  "Etsy": {
+    "url": "https://www.etsy.com/shop/{}"
+  },
+  "Euw": {
+    "url": "https://euw.op.gg/summoner/userName={}"
+  },
+  "Exposure": {
+    "url": "https://{}.exposure.co/"
+  },
+  "EyeEm": {
+    "url": "https://www.eyeem.com/u/{}"
+  },
+  "F3.cool": {
+    "url": "https://f3.cool/{}/"
+  },
+  "Fameswap": {
+    "url": "https://fameswap.com/user/{}"
+  },
+  "Fandom": {
+    "url": "https://www.fandom.com/u/{}"
+  },
+  "Finanzfrage": {
+    "url": "https://www.finanzfrage.net/nutzer/{}"
+  },
+  "Flickr": {
+    "url": "https://www.flickr.com/people/{}"
+  },
+  "Football": {
+    "url": "https://www.rusfootball.info/user/{}/"
+  },
+  "FortniteTracker": {
+    "url": "https://fortnitetracker.com/profile/all/{}"
+  },
+  "Forum Ophilia": {
+    "url": "https://www.forumophilia.com/profile.php?mode=viewprofile&u={}"
+  },
+  "Freelance.habr": {
+    "url": "https://freelance.habr.com/freelancers/{}"
+  },
+  "Freesound": {
+    "url": "https://freesound.org/people/{}/"
+  },
+  "GaiaOnline": {
+    "url": "https://www.gaiaonline.com/profiles/{}"
+  },
+  "Gamespot": {
+    "url": "https://www.gamespot.com/profile/{}/"
+  },
+  "GeeksforGeeks": {
+    "url": "https://auth.geeksforgeeks.org/user/{}"
+  },
+  "Genius (Users)": {
+    "url": "https://genius.com/{}"
+  },
+  "Gesundheitsfrage": {
+    "url": "https://www.gesundheitsfrage.net/nutzer/{}"
+  },
+  "GetMyUni": {
+    "url": "https://www.getmyuni.com/user/{}"
+  },
+  "Giant Bomb": {
+    "url": "https://www.giantbomb.com/profile/{}/"
+  },
+  "Giphy": {
+    "url": "https://giphy.com/{}"
+  },
+  "GitBook": {
+    "url": "https://{}.gitbook.io/"
+  },
+  "GitLab": {
+    "url": "https://gitlab.com/{}"
+  },
+  "Gitee": {
+    "url": "https://gitee.com/{}"
+  },
+  "GoodReads": {
+    "url": "https://www.goodreads.com/{}"
+  },
+  "Google Play": {
+    "url": "https://play.google.com/store/apps/developer?id={}"
+  },
+  "Gravatar": {
+    "url": "http://en.gravatar.com/{}"
+  },
+  "Gumroad": {
+    "url": "https://www.gumroad.com/{}"
+  },
+  "Gutefrage": {
+    "url": "https://www.gutefrage.net/nutzer/{}"
+  },
+  "HackTheBox": {
+    "url": "https://forum.hackthebox.eu/profile/{}"
+  },
+  "Hackaday": {
+    "url": "https://hackaday.io/{}"
+  },
+  "HackerEarth": {
+    "url": "https://hackerearth.com/@{}"
+  },
+  "HackerNews": {
+    "url": "https://news.ycombinator.com/user?id={}"
+  },
+  "HackerOne": {
+    "url": "https://hackerone.com/{}"
+  },
+  "HackerRank": {
+    "url": "https://hackerrank.com/{}"
+  },
+  "Harvard Scholar": {
+    "url": "https://scholar.harvard.edu/{}"
+  },
+  "Hashnode": {
+    "url": "https://hashnode.com/@{}"
+  },
+  "Heavy-R": {
+    "url": "https://www.heavy-r.com/user/{}"
+  },
+  "Houzz": {
+    "url": "https://houzz.com/user/{}"
+  },
+  "HubPages": {
+    "url": "https://hubpages.com/@{}"
+  },
+  "Hubski": {
+    "url": "https://hubski.com/user/{}"
+  },
+  "HudsonRock": {
+    "url": "https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username={}"
+  },
+  "ICQ": {
+    "url": "https://icq.im/{}/en"
+  },
+  "Icons8 Community": {
+    "url": "https://community.icons8.com/u/{}/summary"
+  },
+  "Image Fap": {
+    "url": "https://www.imagefap.com/profile/{}"
+  },
+  "ImgUp.cz": {
+    "url": "https://imgup.cz/{}"
+  },
+  "Imgur": {
+    "url": "https://imgur.com/user/{}"
+  },
+  "Instagram": {
+    "url": "https://instagram.com/{}"
+  },
+  "Instructables": {
+    "url": "https://www.instructables.com/member/{}"
+  },
+  "Ionic Forum": {
+    "url": "https://forum.ionicframework.com/u/{}"
+  },
+  "Issuu": {
+    "url": "https://issuu.com/{}"
+  },
+  "Itch.io": {
+    "url": "https://{}.itch.io/"
+  },
+  "Itemfix": {
+    "url": "https://www.itemfix.com/c/{}"
+  },
+  "Jimdo": {
+    "url": "https://{}.jimdosite.com"
+  },
+  "Joplin Forum": {
+    "url": "https://discourse.joplinapp.org/u/{}"
+  },
+  "KEAKR": {
+    "url": "https://www.keakr.com/en/profile/{}"
+  },
+  "Kaggle": {
+    "url": "https://www.kaggle.com/{}"
+  },
+  "Keybase": {
+    "url": "https://keybase.io/{}"
+  },
+  "Kick": {
+    "url": "https://kick.com/{}"
+  },
+  "Kik": {
+    "url": "https://kik.me/{}"
+  },
+  "LOR": {
+    "url": "https://www.linux.org.ru/people/{}/profile"
+  },
+  "Launchpad": {
+    "url": "https://launchpad.net/~{}"
+  },
+  "LeetCode": {
+    "url": "https://leetcode.com/{}"
+  },
+  "LessWrong": {
+    "url": "https://www.lesswrong.com/users/@{}"
+  },
+  "Letterboxd": {
+    "url": "https://letterboxd.com/{}"
+  },
+  "LibraryThing": {
+    "url": "https://www.librarything.com/profile/{}"
+  },
+  "Lichess": {
+    "url": "https://lichess.org/@/{}"
+  },
+  "LiveJournal": {
+    "url": "https://{}.livejournal.com"
+  },
+  "LottieFiles": {
+    "url": "https://lottiefiles.com/{}"
+  },
+  "LushStories": {
+    "url": "https://www.lushstories.com/profile/{}"
+  },
+  "MMORPG Forum": {
+    "url": "https://forums.mmorpg.com/profile/{}"
+  },
+  "Medium": {
+    "url": "https://medium.com/@{}"
+  },
+  "Memrise": {
+    "url": "https://www.memrise.com/user/{}/"
+  },
+  "Minecraft": {
+    "url": "https://api.mojang.com/users/profiles/minecraft/{}"
+  },
+  "MixCloud": {
+    "url": "https://www.mixcloud.com/{}/"
+  },
+  "Monkeytype": {
+    "url": "https://monkeytype.com/profile/{}"
+  },
+  "Motherless": {
+    "url": "https://motherless.com/m/{}"
+  },
+  "Motorradfrage": {
+    "url": "https://www.motorradfrage.net/nutzer/{}"
+  },
+  "MyAnimeList": {
+    "url": "https://myanimelist.net/profile/{}"
+  },
+  "MyMiniFactory": {
+    "url": "https://www.myminifactory.com/users/{}"
+  },
+  "Mydramalist": {
+    "url": "https://www.mydramalist.com/profile/{}"
+  },
+  "Myspace": {
+    "url": "https://myspace.com/{}"
+  },
+  "NICommunityForum": {
+    "url": "https://community.native-instruments.com/profile/{}"
+  },
+  "NationStates Nation": {
+    "url": "https://nationstates.net/nation={}"
+  },
+  "NationStates Region": {
+    "url": "https://nationstates.net/region={}"
+  },
+  "Naver": {
+    "url": "https://blog.naver.com/{}"
+  },
+  "Needrom": {
+    "url": "https://www.needrom.com/author/{}/"
+  },
+  "Newgrounds": {
+    "url": "https://{}.newgrounds.com"
+  },
+  "Nightbot": {
+    "url": "https://nightbot.tv/t/{}/commands"
+  },
+  "NintendoLife": {
+    "url": "https://www.nintendolife.com/users/{}"
+  },
+  "NitroType": {
+    "url": "https://www.nitrotype.com/racer/{}"
+  },
+  "NotABug.org": {
+    "url": "https://notabug.org/{}"
+  },
+  "Nyaa.si": {
+    "url": "https://nyaa.si/user/{}"
+  },
+  "OGUsers": {
+    "url": "https://ogu.gg/{}"
+  },
+  "OpenStreetMap": {
+    "url": "https://www.openstreetmap.org/user/{}"
+  },
+  "Opensource": {
+    "url": "https://opensource.com/users/{}"
+  },
+  "OurDJTalk": {
+    "url": "https://ourdjtalk.com/members?username={}"
+  },
+  "PCGamer": {
+    "url": "https://forums.pcgamer.com/members/?username={}"
+  },
+  "Pastebin": {
+    "url": "https://pastebin.com/u/{}"
+  },
+  "Patreon": {
+    "url": "https://www.patreon.com/{}"
+  },
+  "PepperIT": {
+    "url": "https://www.pepper.it/profile/{}/overview"
+  },
+  "Periscope": {
+    "url": "https://www.periscope.tv/{}/"
+  },
+  "Pinkbike": {
+    "url": "https://www.pinkbike.com/u/{}/"
+  },
+  "PlayStore": {
+    "url": "https://play.google.com/store/apps/developer?id={}"
+  },
+  "PocketStars": {
+    "url": "https://pocketstars.com/{}"
+  },
+  "Pokemon Showdown": {
+    "url": "https://pokemonshowdown.com/users/{}"
+  },
+  "Polarsteps": {
+    "url": "https://polarsteps.com/{}"
+  },
+  "Polygon": {
+    "url": "https://www.polygon.com/users/{}"
+  },
+  "Polymart": {
+    "url": "https://polymart.org/user/{}"
+  },
+  "Pornhub": {
+    "url": "https://pornhub.com/users/{}"
+  },
+  "ProductHunt": {
+    "url": "https://www.producthunt.com/@{}"
+  },
+  "PromoDJ": {
+    "url": "http://promodj.com/{}"
+  },
+  "PyPi": {
+    "url": "https://pypi.org/user/{}"
+  },
+  "Rajce.net": {
+    "url": "https://{}.rajce.idnes.cz/"
+  },
+  "Rate Your Music": {
+    "url": "https://rateyourmusic.com/~{}"
+  },
+  "Rclone Forum": {
+    "url": "https://forum.rclone.org/u/{}"
+  },
+  "RedTube": {
+    "url": "https://www.redtube.com/users/{}"
+  },
+  "Redbubble": {
+    "url": "https://www.redbubble.com/people/{}"
+  },
+  "Reisefrage": {
+    "url": "https://www.reisefrage.net/nutzer/{}"
+  },
+  "Replit.com": {
+    "url": "https://replit.com/@{}"
+  },
+  "ResearchGate": {
+    "url": "https://www.researchgate.net/profile/{}"
+  },
+  "ReverbNation": {
+    "url": "https://www.reverbnation.com/{}"
+  },
+  "Roblox": {
+    "url": "https://www.roblox.com/user.aspx?username={}"
+  },
+  "RocketTube": {
+    "url": "https://www.rockettube.com/{}"
+  },
+  "RoyalCams": {
+    "url": "https://royalcams.com/profile/{}"
+  },
+  "Rumble": {
+    "url": "https://rumble.com/user/{}"
+  },
+  "SWAPD": {
+    "url": "https://swapd.co/u/{}"
+  },
+  "Sbazar.cz": {
+    "url": "https://www.sbazar.cz/{}"
+  },
+  "Scratch": {
+    "url": "https://scratch.mit.edu/users/{}"
+  },
+  "Scribd": {
+    "url": "https://www.scribd.com/{}"
+  },
+  "ShitpostBot5000": {
+    "url": "https://www.shitpostbot.com/user/{}"
+  },
+  "Shpock": {
+    "url": "https://www.shpock.com/shop/{}/items"
+  },
+  "Signal": {
+    "url": "https://community.signalusers.org/u/{}"
+  },
+  "Sketchfab": {
+    "url": "https://sketchfab.com/{}"
+  },
+  "Slack": {
+    "url": "https://{}.slack.com"
+  },
+  "Slashdot": {
+    "url": "https://slashdot.org/~{}"
+  },
+  "SlideShare": {
+    "url": "https://slideshare.net/{}"
+  },
+  "Slides": {
+    "url": "https://slides.com/{}"
+  },
+  "SmugMug": {
+    "url": "https://{}.smugmug.com"
+  },
+  "Smule": {
+    "url": "https://www.smule.com/{}"
+  },
+  "SoundCloud": {
+    "url": "https://soundcloud.com/{}"
+  },
+  "SourceForge": {
+    "url": "https://sourceforge.net/u/{}"
+  },
+  "SoylentNews": {
+    "url": "https://soylentnews.org/~{}"
+  },
+  "Speedrun.com": {
+    "url": "https://speedrun.com/user/{}"
+  },
+  "Spells8": {
+    "url": "https://forum.spells8.com/u/{}"
+  },
+  "Splice": {
+    "url": "https://splice.com/{}"
+  },
+  "Splits.io": {
+    "url": "https://splits.io/users/{}"
+  },
+  "Sporcle": {
+    "url": "https://www.sporcle.com/user/{}/people"
+  },
+  "Sportlerfrage": {
+    "url": "https://www.sportlerfrage.net/nutzer/{}"
+  },
+  "SportsRU": {
+    "url": "https://www.sports.ru/profile/{}/"
+  },
+  "Star Citizen": {
+    "url": "https://robertsspaceindustries.com/citizens/{}"
+  },
+  "Steam Community (Group)": {
+    "url": "https://steamcommunity.com/groups/{}"
+  },
+  "Steam Community (User)": {
+    "url": "https://steamcommunity.com/id/{}/"
+  },
+  "Strava": {
+    "url": "https://www.strava.com/athletes/{}"
+  },
+  "SublimeForum": {
+    "url": "https://forum.sublimetext.com/u/{}"
+  },
+  "TETR.IO": {
+    "url": "https://ch.tetr.io/u/{}"
+  },
+  "TRAKTRAIN": {
+    "url": "https://traktrain.com/{}"
+  },
+  "Tellonym.me": {
+    "url": "https://tellonym.me/{}"
+  },
+  "ThemeForest": {
+    "url": "https://themeforest.net/user/{}"
+  },
+  "TnAFlix": {
+    "url": "https://www.tnaflix.com/profile/{}"
+  },
+  "TradingView": {
+    "url": "https://www.tradingview.com/u/{}/"
+  },
+  "Trakt": {
+    "url": "https://www.trakt.tv/users/{}"
+  },
+  "Trawelling": {
+    "url": "https://traewelling.de/@{}"
+  },
+  "Trello": {
+    "url": "https://trello.com/{}"
+  },
+  "Tweakers": {
+    "url": "https://tweakers.net/gallery/{}"
+  },
+  "Twitch": {
+    "url": "https://www.twitch.tv/{}"
+  },
+  "Typeracer": {
+    "url": "https://data.typeracer.com/pit/profile?user={}"
+  },
+  "Ultimate-Guitar": {
+    "url": "https://ultimate-guitar.com/u/{}"
+  },
+  "Untappd": {
+    "url": "https://untappd.com/user/{}"
+  },
+  "VSCO": {
+    "url": "https://vsco.co/{}"
+  },
+  "Velomania": {
+    "url": "https://forum.velomania.ru/member.php?username={}"
+  },
+  "Vero": {
+    "url": "https://vero.co/{}"
+  },
+  "Vimeo": {
+    "url": "https://vimeo.com/{}"
+  },
+  "VirusTotal": {
+    "url": "https://www.virustotal.com/gui/user/{}"
+  },
+  "Warrior Forum": {
+    "url": "https://www.warriorforum.com/members/{}.html"
+  },
+  "Wattpad": {
+    "url": "https://www.wattpad.com/user/{}"
+  },
+  "WebNode": {
+    "url": "https://{}.webnode.cz/"
+  },
+  "Weebly": {
+    "url": "https://{}.weebly.com/"
+  },
+  "Wikidot": {
+    "url": "http://www.wikidot.com/user:info/{}"
+  },
+  "Wikipedia": {
+    "url": "https://en.wikipedia.org/wiki/Special:CentralAuth/{}?uselang=qqx"
+  },
+  "Windy": {
+    "url": "https://community.windy.com/user/{}"
+  },
+  "Wix": {
+    "url": "https://{}.wix.com"
+  },
+  "WolframalphaForum": {
+    "url": "https://community.wolfram.com/web/{}/home"
+  },
+  "WordPress": {
+    "url": "https://{}.wordpress.com/"
+  },
+  "WordPressOrg": {
+    "url": "https://profiles.wordpress.org/{}/"
+  },
+  "Wykop": {
+    "url": "https://www.wykop.pl/ludzie/{}"
+  },
+  "Xbox Gamertag": {
+    "url": "https://xboxgamertag.com/search/{}"
+  },
+  "Xvideos": {
+    "url": "https://xvideos.com/profiles/{}"
+  },
+  "YandexMusic": {
+    "url": "https://music.yandex/users/{}/playlists"
+  },
+  "YouNow": {
+    "url": "https://www.younow.com/{}/"
+  },
+  "YouPic": {
+    "url": "https://youpic.com/photographer/{}/"
+  },
+  "YouPorn": {
+    "url": "https://youporn.com/uservids/{}"
+  },
+  "Zhihu": {
+    "url": "https://www.zhihu.com/people/{}"
+  },
+  "akniga": {
+    "url": "https://akniga.org/profile/{}"
+  },
+  "authorSTREAM": {
+    "url": "http://www.authorstream.com/{}/"
+  },
+  "babyRU": {
+    "url": "https://www.baby.ru/u/{}/"
+  },
+  "babyblogRU": {
+    "url": "https://www.babyblog.ru/user/{}"
+  },
+  "chaos.social": {
+    "url": "https://chaos.social/@{}"
+  },
+  "couchsurfing": {
+    "url": "https://www.couchsurfing.com/people/{}"
+  },
+  "d3RU": {
+    "url": "https://d3.ru/user/{}/posts"
+  },
+  "datingRU": {
+    "url": "http://dating.ru/{}"
+  },
+  "devRant": {
+    "url": "https://devrant.com/users/{}"
+  },
+  "drive2": {
+    "url": "https://www.drive2.ru/users/{}"
+  },
+  "eGPU": {
+    "url": "https://egpu.io/forums/profile/{}/"
+  },
+  "eintracht": {
+    "url": "https://community.eintracht.de/fans/{}"
+  },
+  "fixya": {
+    "url": "https://www.fixya.com/users/{}"
+  },
+  "fl": {
+    "url": "https://www.fl.ru/users/{}"
+  },
+  "forum_guns": {
+    "url": "https://forum.guns.ru/forummisc/blog/{}"
+  },
+  "furaffinity": {
+    "url": "https://www.furaffinity.net/user/{}"
+  },
+  "geocaching": {
+    "url": "https://www.geocaching.com/p/default.aspx?u={}"
+  },
+  "gfycat": {
+    "url": "https://gfycat.com/@{}"
+  },
+  "habr": {
+    "url": "https://habr.com/ru/users/{}"
+  },
+  "hackster": {
+    "url": "https://www.hackster.io/{}"
+  },
+  "hunting": {
+    "url": "https://www.hunting.ru/forum/members/?username={}"
+  },
+  "iMGSRC.RU": {
+    "url": "https://imgsrc.ru/main/user.php?user={}"
+  },
+  "igromania": {
+    "url": "http://forum.igromania.ru/member.php?username={}"
+  },
+  "interpals": {
+    "url": "https://www.interpals.net/{}"
+  },
+  "irecommend": {
+    "url": "https://irecommend.ru/users/{}"
+  },
+  "jbzd.com.pl": {
+    "url": "https://jbzd.com.pl/uzytkownik/{}"
+  },
+  "jeuxvideo": {
+    "url": "https://www.jeuxvideo.com/profil/{}"
+  },
+  "kofi": {
+    "url": "https://ko-fi.com/{}"
+  },
+  "kwork": {
+    "url": "https://kwork.ru/user/{}"
+  },
+  "last.fm": {
+    "url": "https://last.fm/user/{}"
+  },
+  "leasehackr": {
+    "url": "https://forum.leasehackr.com/u/{}/summary/"
+  },
+  "livelib": {
+    "url": "https://www.livelib.ru/reader/{}"
+  },
+  "mastodon.cloud": {
+    "url": "https://mastodon.cloud/@{}"
+  },
+  "mastodon.social": {
+    "url": "https://mastodon.social/@{}"
+  },
+  "mastodon.technology": {
+    "url": "https://mastodon.technology/@{}"
+  },
+  "mastodon.xyz": {
+    "url": "https://mastodon.xyz/@{}"
+  },
+  "mercadolivre": {
+    "url": "https://www.mercadolivre.com.br/perfil/{}"
+  },
+  "minds": {
+    "url": "https://www.minds.com/{}/"
+  },
+  "moikrug": {
+    "url": "https://moikrug.ru/{}"
+  },
+  "mstdn.io": {
+    "url": "https://mstdn.io/@{}"
+  },
+  "nairaland.com": {
+    "url": "https://www.nairaland.com/{}"
+  },
+  "nnRU": {
+    "url": "https://{}.www.nn.ru/"
+  },
+  "note": {
+    "url": "https://note.com/{}"
+  },
+  "npm": {
+    "url": "https://www.npmjs.com/~{}"
+  },
+  "opennet": {
+    "url": "https://www.opennet.ru/~{}"
+  },
+  "osu!": {
+    "url": "https://osu.ppy.sh/users/{}"
+  },
+  "phpRU": {
+    "url": "https://php.ru/forum/members/?username={}"
+  },
+  "pikabu": {
+    "url": "https://pikabu.ru/@{}"
+  },
+  "pr0gramm": {
+    "url": "https://pr0gramm.com/user/{}"
+  },
+  "prog.hu": {
+    "url": "https://prog.hu/azonosito/info/{}"
+  },
+  "queer.af": {
+    "url": "https://queer.af/@{}"
+  },
+  "satsisRU": {
+    "url": "https://satsis.info/user/{}"
+  },
+  "sessionize": {
+    "url": "https://sessionize.com/{}"
+  },
+  "skyrock": {
+    "url": "https://{}.skyrock.com/"
+  },
+  "social.tchncs.de": {
+    "url": "https://social.tchncs.de/@{}"
+  },
+  "spletnik": {
+    "url": "https://spletnik.ru/user/{}"
+  },
+  "svidbook": {
+    "url": "https://www.svidbook.ru/user/{}"
+  },
+  "toster": {
+    "url": "https://www.toster.ru/user/{}/answers"
+  },
+  "uid": {
+    "url": "http://uid.me/{}"
+  },
+  "wiki.vg": {
+    "url": "https://wiki.vg/User:{}"
+  },
+  "xHamster": {
+    "url": "https://xhamster.com/users/{}"
+  },
+  "znanylekarz.pl": {
+    "url": "https://www.znanylekarz.pl/{}"
+  }
+}
